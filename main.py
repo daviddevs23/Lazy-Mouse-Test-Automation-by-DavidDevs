@@ -21,7 +21,7 @@ detector = cv2.SimpleBlobDetector_create(params)
 # Open the mouse test
 webbrowser.open(url)
 
-# Chill for 3 seconds while the game loads
+# Chill for 2.5 seconds while the game loads
 sleep(2.5)
 
 # Initiate a current time variable to measure run time
