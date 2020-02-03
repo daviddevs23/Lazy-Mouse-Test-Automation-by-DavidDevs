@@ -49,6 +49,6 @@ while(True):
         mouse.position = (point.pt[0], point.pt[1] + 172)
         mouse.click(Button.left, 1)
 
-    # Chill for 1/10 of a second so it doesn't click too quickly
-    sleep(.08)
+    # Chill for 70 milliseconds so it doesn't click too quickly
+    sleep(.07)
 
